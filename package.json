@@ -1,14 +1,14 @@
 {
-  "name": "WhatsAsenaPublic",
+  "name": "ToxBot",
   "version": "0.16.7",
   "description": "A Modified Version of WhatsAsenaDuplicated. Thanks To : @phaticusthiccy & @yusufusta For Developing WhatsAsena.",
-  "main": "./WhatsAsenaPublic/bot.js",
+  "main": "./ToxBot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git"
+    "url": "git+https://github.com/Kaweeshachamodk/ToxBot.git"
   },
   "keywords": [
     "whatsapp"
@@ -17,9 +17,9 @@
   "developer": "AsenaDev / @phaticusthiccy / TOXIC-DEVIL",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/issues"
+    "url": "https://github.com/Kaweeshachamodk/ToxBot/issues"
   },
-  "homepage": "https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#readme",
+  "homepage": "https://github.com/Kaweeshachamodk/ToxBot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
